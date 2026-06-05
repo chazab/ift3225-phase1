@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "seed": "node seed.js",
-    "bridge": "node bridge.js"
+    "bridge": "node bridge.js",
+    "mock": "node phyphox-mock.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
