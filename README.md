@@ -2,7 +2,7 @@
 | Nom | Matricule |
 |-----|-----------|
 | Chaza Boukhira | 20276819 |
-| Coéquipier #2 | À compléter |
+| Ruotian Tang | À 20090403 |
 
 ---
 
