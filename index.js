@@ -15,6 +15,10 @@ app.use('/measurements', measurementsRouter);
 app.use('/observations', observationsRouter);
 app.use('/ambiance',     ambianceRouter);
 
+app.use((req, res) => {
+  res.status(404).json({ error: 'Route non trouvée' });
+});
+
 const PORT = process.env.PORT || 3000;
 
 mongoose

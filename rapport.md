@@ -1,7 +1,7 @@
 ---
 Équipe :
 - Chaza Boukhira — 20276819
-- Coéquipier #2 — À compléter
+- Ruotian Tang — 20090404
 
 Cours : IFT3225 — Technologies Web
 Remise : Phase 1 — Infrastructure de collecte
